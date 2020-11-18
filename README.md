@@ -2,7 +2,7 @@
 
 Talk given by Jason Pearson on November 17th, 2020
 
-Speaker Deck - To be uploaded later tonight
+[Speaker Deck](https://speakerdeck.com/kaeawc/motionlayout-and-recyclerview)
 
 Recorded Video - To be uploaded later
 
