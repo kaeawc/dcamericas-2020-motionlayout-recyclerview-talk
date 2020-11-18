@@ -6,6 +6,8 @@ Talk given by Jason Pearson on November 17th, 2020
 
 [Speaker Deck](https://speakerdeck.com/kaeawc/motionlayout-and-recyclerview)
 
+[Original Keynote File](https://drive.google.com/file/d/1osdSYOvwbh1pypOJ8ccpV9J670fWGzSx/view?usp=sharing)
+
 Recorded Video - To be uploaded later
 
 ## Examples
